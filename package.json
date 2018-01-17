@@ -1,0 +1,14 @@
+{
+    "name" : "SVG2GCODE",
+    "main" : "html/jscut_fr.html",
+    "window" : {
+        "title" : "Mariage JukeBox V1.0",
+        "icon" : "link.png",
+        "toolbar" : true,
+        "navbar" : true,
+        "frame" : true,
+        "width" : 800,
+        "height" : 600,
+        "position" : "mouse"
+    }
+}
